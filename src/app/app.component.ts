@@ -8,8 +8,5 @@ import { Component } from '@angular/core';
 export class AppComponent {
   title = 'isma8';
 
-  public saludar(){
-    alert("hola mundo");
-    
-  }
+  
 }
